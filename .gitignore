@@ -361,3 +361,4 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 TemplateBot/TemplateBot/TemplateBot/Config/config.json
+TemplateBot/TemplateBot/TemplateBot/Config/config.json
